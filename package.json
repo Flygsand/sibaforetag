@@ -1,0 +1,19 @@
+{
+  "name": "sibaforetag",
+  "version": "0.1.0",
+  "description": "sibaforetag redirecter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/protomouse/sibaforetag.git"
+  },
+  "author": "protomouse <root@protomou.se>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/protomouse/sibaforetag/issues"
+  },
+  "homepage": "https://github.com/protomouse/sibaforetag"
+}
